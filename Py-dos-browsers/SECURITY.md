@@ -9,7 +9,7 @@ currently being supported with security updates.
 | ------- | ------------------ |
 |         |                    |
 |         |                    |
-| 1.1     |idk what to put here|
+| 1.1     |Only newest version|
 | 1.2     |                    |
 
 ## Reporting a Vulnerability
